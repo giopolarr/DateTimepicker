@@ -181,7 +181,7 @@
             // 
             // tb_mes
             // 
-            this.tb_mes.Location = new System.Drawing.Point(166, 434);
+            this.tb_mes.Location = new System.Drawing.Point(166, 433);
             this.tb_mes.Name = "tb_mes";
             this.tb_mes.Size = new System.Drawing.Size(75, 20);
             this.tb_mes.TabIndex = 14;

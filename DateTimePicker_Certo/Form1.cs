@@ -33,14 +33,11 @@ namespace DateTimePicker_Certo
 
         private void btn_setarData_Click(object sender, EventArgs e) // giovanna
         {
-            int d, m, a; // facilitar
-            d = Int32.Parse(tb_dia.Text); //int parse funciona como uma conversão de string para int
-            m = Int32.Parse(tb_mes.Text);
-            a = Int32.Parse(tb_ano.Text);
+            tb_data.Clear();
+            tb_dia.Clear();
+            tb_mes.Clear();
+            tb_ano.Clear();
 
-            DateTime dt = new DateTime(a, m, d); //inicializa uma nova estância de estrutura para o ano, mês e dia especificado, resetando os comandos acima.
-
-            dtp_data.Value = dt; // Value define o valor de data/hora atribuido.
         }
 
         private void dtp_data_ValueChanged(object sender, EventArgs e)// cassiane
