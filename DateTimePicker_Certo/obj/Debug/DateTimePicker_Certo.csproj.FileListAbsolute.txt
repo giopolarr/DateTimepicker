@@ -1,0 +1,11 @@
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\bin\Debug\DateTimePicker_Certo.exe.config
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\bin\Debug\DateTimePicker_Certo.exe
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\bin\Debug\DateTimePicker_Certo.pdb
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.csproj.AssemblyReference.cache
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.Form1.resources
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.Properties.Resources.resources
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.csproj.GenerateResource.cache
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.exe
+C:\Users\Giovanna Siminaione\source\repos\DateTimePicker_Certo\DateTimePicker_Certo\obj\Debug\DateTimePicker_Certo.pdb
